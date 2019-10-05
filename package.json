@@ -1,7 +1,7 @@
 {
   "name": "git-and-npm",
   "version": "1.0.0",
-  "description": "js bind method",
+  "description": "work with git and npm",
   "main": "assignment.js",
   "scripts": {
     "test": "npm run lint && jest",
